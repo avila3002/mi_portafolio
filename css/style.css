@@ -1,0 +1,62 @@
+header nav.navbar {
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+}
+header #hero {
+  background-color: #000000;
+  height: 800px;
+  padding-top: 70px;
+}
+
+main #sobre_mi button {
+  background-color: #f2c624;
+}
+
+header #skills {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+#titulo_skills {
+  width: 179px;
+  background-color: yellow;
+  color: #000000;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  color: #fff;
+  margin-top: 50%;
+}
+#estudios h2 {
+  width: 179px;
+  background-color: yellow;
+  color: #000000;
+  padding: 10px;
+  margin: 1 auto;
+  margin-bottom: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+#contacto {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+footer {
+  background-color: #6f6f6f;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#sobre_mi {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.wasap {
+  position: fixed;
+  right: 0;
+  bottom: 30px;
+  z-index: 999;
+}
